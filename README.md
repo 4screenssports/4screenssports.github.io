@@ -1,1 +1,1 @@
-Go to maxxwayne.github.io for the full Fantasy Sports site
+Go to 4screenssports.github.io for the full Fantasy Sports site
